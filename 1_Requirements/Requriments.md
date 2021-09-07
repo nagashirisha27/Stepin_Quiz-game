@@ -9,7 +9,7 @@ The main objectives of this project are:
 -   To perform operations to start the game, to view the highest score of the user, to reset score, display the results.
 
 ## SWOT ANALYSIS
-![SWOT](file:///C:/Users/Home/Downloads/SWOT%20Analysis.drawio.pdf)
+![SWOT](6_ImagesAndVideos/SWOT Analysis.drawio.png)
 
 
 ## **4 W's and 1 H**
