@@ -9,7 +9,7 @@ The main objectives of this project are:
 -   To perform operations to start the game, to view the highest score of the user, to reset score, display the results.
 
 ## SWOT ANALYSIS
-![SWOT](6_ImagesAndVideos/SWOT Analysis.drawio.png)
+![SWOT](https://github.com/nagashirisha27/Stepin_Quiz-game/blob/main/6_ImagesAndVideos/SWOT%20Analysis.drawio.png)
 
 
 ## **4 W's and 1 H**
