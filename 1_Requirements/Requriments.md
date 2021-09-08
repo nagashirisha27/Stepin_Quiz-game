@@ -38,7 +38,25 @@ Implemented using Functions , loops and other functionalities of C.
 2. Front end tool: Visual Studio Code
 
 3. Programming language used: C
+
 4. gcc compiler with a good system.
+
+# HIGH LEVEL REQUIREMENT 
+
+|  ID  | DESCRIPTION                                  | CATEGORY   |  STATUS     |
+| ---- | -------------------------------------------- | ---------- | ----------- |
+| HR01 | Major steps performed through particular key | Technical  | Implemented |
+| ---- | -------------------------------------------- | ---------- | ----------- |
+| HR02 | Name Registration option available           | Technical  | Implemented |
+| ---- | -------------------------------------------- | ---------- | ----------- |
+| HR03 | Eligible players can play main game          | Technical  | Implemented |
+
+# LOW LEVEL REQUIREMENT 
+| ID   | DESCRIPTION                                    | HLR_ID    | STATUS      |
+| ---- | ---------------------------------------------  | --------- | ----------- |
+| LR01 | Two rounds will be played                      | HR03      | Implemented |
+| ---- | ---------------------------------------------- | --------- | ----------- |
+| LR02 | name of the player is shown                    | HR02      | Implemented |
 
 
 
