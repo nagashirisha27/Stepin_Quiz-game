@@ -28,4 +28,6 @@ I have divided this mini project into many functions, and listed below are some 
 # Git inspector:
 [![Git Inspector](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/git_inspector.yml) 
 # cppcheck:
-[![cppcheck-action](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/cppcheck.yml) [![CI](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/main.yml/badge.svg)](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/main.yml)
+[![cppcheck-action](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/cppcheck.yml)
+# CI:
+[![CI](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/main.yml/badge.svg)](https://github.com/nagashirisha27/Stepin_Quiz-game/actions/workflows/main.yml)
