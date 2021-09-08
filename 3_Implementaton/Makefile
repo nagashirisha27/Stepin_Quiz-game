@@ -1,5 +1,8 @@
 PROJ_NAME = QUIZ_GAME
-SRC = main.c functions.c mainhome.c home.c game.c
+SRC = 3_Implementation/src/functions.c\
+3_Implementation/src/mainhome.c\
+3_Implementation/src/home.c\ 
+3_Implementation/src/game.c\
 
 ifdef OS
    RM = del /q
@@ -14,7 +17,7 @@ else
 endif
 
 all:
-	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC))
+	gcc main.c $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC))
 
 run: all
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
