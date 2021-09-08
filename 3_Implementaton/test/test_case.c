@@ -3,7 +3,7 @@
 
 /* Modify these two lines according to the project */
 #include "functions.h"
-#define PROJECT_NAME "STEPIN_QUIZ-G"
+#define PROJECT_NAME "STEPIN_QUIZ-game"
 
 /* Prototypes for all the test functions */
 void show_record();
